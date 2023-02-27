@@ -2,7 +2,7 @@
   "name": "social-media-app",
   "version": "0.1.0",
   "homepage": "https://choudharyab.github.io/social-dashboard",
-    "private": true,
+  "private": true,
   "dependencies": {
     "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2",
@@ -52,6 +52,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^5.0.0",
     "resolve-url-loader": "^5.0.0",
     "webpack-cli": "^5.0.1"
   }
