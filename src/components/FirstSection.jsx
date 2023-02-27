@@ -7,7 +7,7 @@ const FirstSection = () => {
         <div className="card__platform">
           <img
             className="card__icon"
-            src="../assets/icon-facebook.svg"
+            src="./assets/icon-facebook.svg"
             alt="Facebook"
           />
           <div className="card__username">@nathanf</div>
@@ -17,7 +17,7 @@ const FirstSection = () => {
           <div className="card__label">Followers</div>
         </div>
         <div className="card__change card__change--up">
-          <img src="../assets/icon-up.svg" alt="up arrow" />
+          <img src="./assets/icon-up.svg" alt="up arrow" />
           <div className="card__number">12 Today</div>
         </div>
       </div>
@@ -26,7 +26,7 @@ const FirstSection = () => {
           <div className="card__platform">
             <img
               className="card__icon"
-              src="../assets/icon-twitter.svg"
+              src="./assets/icon-twitter.svg"
               alt="Twitter"
             />
             <div className="card__username">@nathanf</div>
@@ -36,7 +36,7 @@ const FirstSection = () => {
             <div className="card__label">Followers</div>
           </div>
           <div className="card__change card__change--up">
-            <img src="../assets/icon-up.svg" alt="up arrow" />
+            <img src="./assets/icon-up.svg" alt="up arrow" />
             <div className="card__number">99 Today</div>
           </div>
         </div>
@@ -45,7 +45,7 @@ const FirstSection = () => {
           <div className="card__platform">
             <img
               className="card__icon"
-              src="../assets/icon-instagram.svg"
+              src="./assets/icon-instagram.svg"
               alt="Instagram"
             />
             <div className="card__username">@nathanf</div>
@@ -55,7 +55,7 @@ const FirstSection = () => {
             <div className="card__label">Followers</div>
           </div>
           <div className="card__change card__change--up">
-            <img src="../assets/icon-up.svg" alt="up arrow" />
+            <img src="./assets/icon-up.svg" alt="up arrow" />
             <div className="card__number">1099 Today</div>
           </div>
         </div>
@@ -64,7 +64,7 @@ const FirstSection = () => {
           <div className="card__platform">
             <img
               className="card__icon"
-              src="../assets/icon-youtube.svg"
+              src="./assets/icon-youtube.svg"
               alt="YouTube"
             />
             <div className="card__username">@nathanf</div>
@@ -74,7 +74,7 @@ const FirstSection = () => {
             <div className="card__label">Followers</div>
           </div>
           <div className="card__change card__change--down">
-            <img src="../assets/icon-down.svg" alt="down arrow" />
+            <img src="./assets/icon-down.svg" alt="down arrow" />
             <div className="card__number">144 Today</div>
           </div>
         </div>
